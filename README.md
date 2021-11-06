@@ -1,2 +1,3 @@
 # LSD2
-the solutions of C exercises
+
+-the solutions of C exercises
